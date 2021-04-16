@@ -1,0 +1,18 @@
+{
+  "usernameField": "/html[1]/body[1]/div[1]/div[1]/div[1]/form[1]/fieldset[1]/input[1]",
+  "passwordField": "/html[1]/body[1]/div[1]/div[1]/div[1]/form[1]/fieldset[2]/input[1]",
+  "submitButton": "/html[1]/body[1]/div[1]/div[1]/div[1]/form[1]/input[1]",
+  "messageField": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/fieldset[1]/input[1]",
+  "messageOne": "this is webdriverio automation text",
+  "sendButton": "//button[contains(text(),'Send')]",
+  "weatherButton": "//button[contains(text(),'Change')]",
+  "weatherField": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[7]/fieldset[1]/input[1]",
+  "valueOne": "Kabul",
+  "valueTwo": "New Delhi",
+  "logoutButton": "/html[1]/body[1]/div[1]/div[1]/div[1]/button[1]",
+  "messageTwo": "this is webdriverio automation text from user two",
+  "usernameOne": "masood",
+  "userpassOne": "ahmadi",
+  "usernameTwo": "jannaten",
+  "userpassTwo": "nayem"
+}
